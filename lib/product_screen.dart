@@ -138,7 +138,7 @@ class _ProductScreenState extends State<ProductScreen> {
                       Container(
                         margin: EdgeInsets.only(
                             top: Constants.getScreenHeight(context) * 0.02,
-                            left: Constants.getScreenWidth(context) * 0.02,
+                            left: Constants.getScreenWidth(context) * 0.03,
                             right: Constants.getScreenWidth(context) * 0.1),
                         child: ListView.builder(
                           shrinkWrap: true,
